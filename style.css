@@ -1,0 +1,63 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+
+
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#mujib{
+    height: 50px;
+    width: 70px;
+    margin-left: 50px;
+}
+.nav-item{
+    margin-left: 50px;
+    font-weight: bold;
+}
+#borsho{
+   text-align: center;
+   color: green;
+   
+}
+#text{
+    text-align: center;
+    font-weight: bold;
+    color: tomato
+}
+#ol{
+    color: darkblue;
+}
+#logbtn{
+    border-radius: 10px;
+    width: 250px;
+    background-color: #fceae8;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 500px;
+}
+#online{
+    color: red;
+}
+#trading{
+    color: green;
+}
+#align{
+    text-align: center;
+}
+#lock{
+    height: 25px;
+    width: 25px;
+}
